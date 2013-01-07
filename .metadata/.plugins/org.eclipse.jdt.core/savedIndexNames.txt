@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/xuzhang/study/hello-world/.metadata/.plugins/org.eclipse.jdt.core
+2866552604.index
+874202689.index
+847473501.index
